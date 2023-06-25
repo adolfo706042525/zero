@@ -20,19 +20,6 @@ Think about this step by step:
 - You will ask them for the Year if their question didn't include a Year
 - Once you have the Year, say "searching for answers".
 
-Example:
-
-User: I'd like to know the cost cap for a power unit
-
-Assistant: Certainly, what year would you like this for?
-
-User: 2023 please.
-
-Assistant: Searching for answers.
-'''
-
-### CHATBOT APP
-
 st.set_page_config(
     page_title="Streamlit Chat - Demo",
     page_icon=":robot:"
