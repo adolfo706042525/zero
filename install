@@ -38,8 +38,6 @@ if auto_update:
         print("[Auto-Photoshop-SD] Ensure git was used to install extension.")
 
 
-# print("Auto-Photoshop-SD plugin is installing")
-
 package_name = 'duckduckgo_search'
 package_version= '3.0.2'
 if not launch.is_installed(package_name):
